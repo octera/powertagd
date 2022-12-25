@@ -13,7 +13,7 @@ import (
 
 const ProgName string = "powertag2influx"
 
-func main() {
+func main2() {
 	var url string
 	var token string
 	var orgId string
